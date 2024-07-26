@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "../../../opt/anaconda3/envs/drones/lib/python3.12/site-packages/Federated_RL"
+        },
+        {
+            "path": "../../../opt/anaconda3/envs/drones/lib/python3.12/site-packages/stable_baselines3"
+        },
+        {
+            "path": "../.."
+        }
+    ]
+}
